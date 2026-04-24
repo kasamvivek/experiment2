@@ -94,7 +94,7 @@ The design focuses on simplicity, responsiveness, and modern UI practices.
 
 ## 🌍 Deployment
 
-👉 https://youruid-exp2-name.vercel.app
+👉 23bai70214-exp2-vivek-lx0qf015g-kasamviveks-projects.vercel.app
 
 ---
 
