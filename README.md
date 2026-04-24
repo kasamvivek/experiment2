@@ -82,44 +82,13 @@ The design focuses on simplicity, responsiveness, and modern UI practices.
 ## 📷 Output Screens
 
 ### 🔹 Hero Section
-
-![Hero Section](hero-section.png)
+![Hero Section](screenshots/homepage-hero.png)
 
 ### 🔹 About & Services Section
-
-![About and Services](about-services-section.png)
+![About and Services](screenshots/about-services-section.png)
 
 ### 🔹 Homepage Preview
-
-![Homepage Preview](homepage-preview.png)
-
-### 🔹 Full UI Preview
-
-## 🚀 How to Run the Project
-
-1. Clone the repository
-
-   ```
-   git clone https://github.com/kasamvivek/experiment2.git
-   ```
-
-2. Navigate to project folder
-
-   ```
-   cd exp2-app
-   ```
-
-3. Install dependencies
-
-   ```
-   npm install
-   ```
-
-4. Run the project
-
-   ```
-   npm start
-   ```
+![Homepage Preview](screenshots/homepage-preview.png)
 
 ---
 
